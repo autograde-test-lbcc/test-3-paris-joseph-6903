@@ -6,4 +6,4 @@ def add(x, y):
 
 def subtract( x, y ):
     """Compute the difference of x and y."""
-    return x/y
+    return x-y
